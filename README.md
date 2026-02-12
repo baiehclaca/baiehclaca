@@ -1,4 +1,4 @@
-# Hey, I'm Teo 👋
+# Hey, my name is Teodor Walter Vido 👋
 
 📍 **Slovakia** | 🧠 **Building the future of AI memory** 
 
@@ -12,7 +12,7 @@
 
 > Building a1 at AETHER Research — an AI architecture that forms, recalls, and evolves its own memories. No context window. No forgetting.
 
-## What I'm Building
+## What I'm Building!
 
 - 🧠 **[AETHER.IO](https://github.com/aetherdotio)** 
 - 🔍 **DevSearch** *(2022, retired)* 
@@ -21,7 +21,7 @@
 - 📦 **.AIR** 
 - 🔬 **[SINGULAR QX](https://github.com/singularqx)** 
 
-## Past Lives
+## What i've done in the past!
 
 I've built a lot of things that never shipped and a few that did:
 
@@ -32,13 +32,9 @@ I've built a lot of things that never shipped and a few that did:
 - 📁 Games, social networks, cloud services, etc.
 - 🔬 Architectures
 
-## Tech I Love
+## Tech i use!
 
 Rust for systems. TypeScript + React + Next.js + Tailwind for interfaces. Framer Motion + Three.js for things that move. Claude for thinking and coding.
-
-## Philosophy
-
-> Ship it. Make it excellent.
 
 ---
 
