@@ -14,11 +14,13 @@
 
 ## What I'm Building
 
-- 🧠 **AETHER Research** — Autonomous Episodic Thought and Hierarchical Evidence Reasoning. A new AI architecture where knowledge lives in cryptograms, recall happens through spreading activation, and the system supervises its own cognition.
+- 🧠 **[AETHER Research](https://github.com/aether-research)** — Autonomous Episodic Thought and Hierarchical Evidence Reasoning. A new AI architecture where knowledge lives in cryptograms, recall happens through spreading activation, and the system supervises its own cognition.
 
 - 🔍 **DevSearch** *(2022, retired)* — A search engine built for developers. Killed by the ChatGPT wave, but taught me everything about search, ranking, and what AI actually needs.
 
 ## Past Lives
+
+I've built a lot of things that never shipped and a few that did:
 
 - 🎵 Music — producer, composer, lifelong obsession
 - 💻 Web development — freelance, dark themes, bold typography, minimal UI
@@ -35,8 +37,9 @@ Rust for systems. TypeScript + React + Next.js + Tailwind for interfaces. Framer
 
 > Ship it. Make it excellent. Don't ask permission.
 
-One-person company. One AI coworker. That's the whole team.
+I build things the way I think they should exist — maximum quality, no shortcuts. One-person company with an AI coworker. That's the whole team.
 
 ---
 
 [![Portfolio](https://img.shields.io/badge/-teodorwaltervido.com-000000?style=flat-square&logo=safari&logoColor=white)](https://teodorwaltervido.com)
+[![Twitter](https://img.shields.io/badge/-@teovido-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/teovido)
