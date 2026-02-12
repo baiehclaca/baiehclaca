@@ -17,15 +17,15 @@
 ### AETHER
 Long-horizon AI systems with strong memory + reasoning foundations.
 
-- 🏢 Org: **[CLICK-HERE] (https://github.com/aetherdotio)**
+- 🏢 Org: **[CLICK-HERE](https://github.com/aetherdotio)**
 
 ---
 
 ## 🧩 Selected Projects
 
-- 🌍 **[Caret-Translate] (https://github.com/baiehclaca/caret-translate)** → Double tap "TAB", it will analyze your sentence and translate it. All local.
-- 🧪 **[GULA-GUG] (https://github.com/baiehclaca/GULA-GUG)** - Self-resolving terminal.
-- ⚙️ **[SINGULAR] (https://github.com/singularqx** - New way of computing.
+- 🌍 **[Caret-Translate](https://github.com/baiehclaca/caret-translate)** → Double tap "TAB", it will analyze your sentence and translate it. All local.
+- 🧪 **[GULA-GUG](https://github.com/baiehclaca/GULA-GUG)** - Self-resolving terminal.
+- ⚙️ **[SINGULAR](https://github.com/singularqx)** - New way of computing.
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -50,7 +50,7 @@ Long-horizon AI systems with strong memory + reasoning foundations.
 - 💻 GitHub: https://github.com/baiehclaca
 - 🏢 AETHER Org: https://github.com/aetherdotio
 - 🌐 Portfolio: https://teodorwaltervido.com
-- 🐦 X: https://twitter.com/teovido
+- 🐦 X: https://twitter.com/teodorwalterv
 - ✉️ Email: hi@teodorwaltervido.com
 
 ---
