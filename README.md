@@ -17,7 +17,7 @@
 ### AETHER
 Long-horizon AI systems with strong memory + reasoning foundations.
 
-- 🏢 Org: **[CLICK-HERE](https://github.com/aetherdotio)**
+- 🏢 **[AETHER Org](https://github.com/aetherdotio)**
 
 ---
 
