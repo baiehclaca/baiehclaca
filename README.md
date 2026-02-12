@@ -14,17 +14,12 @@
 
 ## What I'm Building
 
-- 🧠 **[AETHER Research](https://github.com/aether-research)** — A new AI architecture
-
-- 🔍 **DevSearch** *(2022, retired)* — A search engine built for developers.
-
-- 🔤 **[Caret Translate](https://github.com/baiehclaca/caret-translate)** - Translator app running in the background, easily accesible with a double push of TAB. Finds what word is in another language and translates it.
-
+- 🧠 **[AETHER Research](https://github.com/aether-research)** 
+- 🔍 **DevSearch** *(2022, retired)* 
+- 🔤 **[Caret Translate](https://github.com/baiehclaca/caret-translate)**
 - ⌨️ **[GULA-GUG](https://github.com/baiehclaca/gula-gug)** - An AI Powered terminal for Windows making every error easily fixable and every command easily accessible.
-
-- 📦 **.AIR** - Compress & Decompress powered engine for installing files fast. 
-
-- 🔬 **[SINGULAR QX](https://github.com/singularqx)** - A new chip architecture
+- 📦 **.AIR** 
+- 🔬 **[SINGULAR QX](https://github.com/singularqx)** 
 
 ## Past Lives
 
@@ -35,7 +30,7 @@ I've built a lot of things that never shipped and a few that did:
 - 🎵 Music
 - ⛓️ Blockchain payment system
 - 📁 Games, social networks, cloud services, etc.
-- 🔬 A chip architecture
+- 🔬 Architectures
 
 ## Tech I Love
 
