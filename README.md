@@ -30,12 +30,12 @@
 
 I've built a lot of things that never shipped and a few that did:
 
-- 🎵 Music — producer, composer, lifelong obsession
-- 💻 Web development — freelance, dark themes, bold typography, minimal UI
+- 💻 Web development
 - 🖥️ An almost-complete operating system
+- 🎵 Music
 - ⛓️ Blockchain payment system
-- 🎮 Games, social networks, cloud services, a streaming platform for books
-- 🔬 A chip architecture too advanced for 2026
+- 📁 Games, social networks, cloud services, etc.
+- 🔬 A chip architecture
 
 ## Tech I Love
 
