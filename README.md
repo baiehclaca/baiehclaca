@@ -43,4 +43,4 @@ Rust for systems. TypeScript + React + Next.js + Tailwind for interfaces. Framer
 ---
 
 [![Portfolio](https://img.shields.io/badge/-teodorwaltervido.com-000000?style=flat-square&logo=safari&logoColor=white)](https://teodorwaltervido.com)
-[![Twitter](https://img.shields.io/badge/-@teovido-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/teodorwalterv)
+[![Twitter](https://img.shields.io/badge/-@teodorwalterv-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/teodorwalterv)
