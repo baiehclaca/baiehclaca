@@ -18,7 +18,7 @@
 
 - 🔍 **DevSearch** *(2022, retired)* — A search engine built for developers.
 
-- 🔤 **[Caret Translate](https://github.com/baiehclaca/carettranslate)** - Translator app running in the background, easily accesible with a double push of TAB. Finds what word is in another language and translates it.
+- 🔤 **[Caret Translate](https://github.com/baiehclaca/caret-translate)** - Translator app running in the background, easily accesible with a double push of TAB. Finds what word is in another language and translates it.
 
 - ⌨️ **[GULA-GUG](https://github.com/baiehclaca/gula-gug)** - An AI Powered terminal for Windows making every error easily fixable and every command easily accessible.
 
