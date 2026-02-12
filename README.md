@@ -1,56 +1,60 @@
-# Teodor Walter Vido
+# Hey, i am Teodor 🌌
 
-I build systems that are a little too early.
+<p align="left">
+  <img src="https://img.shields.io/badge/Builder-Shipping%20Fast-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Dark%20%2B%20Minimal-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Slovakia-0f172a?style=for-the-badge" />
+</p>
+
+🚀 Building ambitious systems.  
+🧠 Obsessed with architecture, memory, and clean execution.  
+🎵 Also making music when the compiler cools down.
 
 ---
 
-## Current Focus
+## 🌌 Current Focus
 
 ### AETHER
-Working on new AI systems with strong memory and reasoning foundations.
+Long-horizon AI systems with strong memory + reasoning foundations.
 
-- **[AETHER ORGANIZATION] (https://github.com/aetherdotio)**
-
----
-
-## Selected Projects
-
-- **[Caret-Translate] (https://github.com/baiehclaca/caret-translate)** — Greatest translator ever. Double Tap TAB to translate.
-- **[GULA-GUG] (https://github.com/baiehclaca/GULA-GUG)** - The most easy-to-use and no-error terminal.
-- **[SINGULAR] (https://github.com/sinularqx)** — New way of computing.
+- 🏢 Org: **[CLICK-HERE] (https://github.com/aetherdotio)**
 
 ---
 
-## Design + Engineering Taste
+## 🧩 Selected Projects
 
-I like:
-- dark, minimal interfaces
-- strong typography
-- motion only when it adds meaning
-- systems that stay understandable under scale
-
-Common stack:
-- Rust
-- TypeScript
-- React / Next.js
-- Tailwind
-- Python
+- 🌍 **[Caret-Translate] (https://github.com/baiehclaca/caret-translate)** → Double tap "TAB", it will analyze your sentence and translate it. All local.
+- 🧪 **[GULA-GUG] (https://github.com/baiehclaca/GULA-GUG)** - Self-resolving terminal.
+- ⚙️ **[SINGULAR] (https://github.com/singularqx** - New way of computing.
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+</p>
 
 ---
 
-## Links
+## 🧠 Design + Engineering Taste
 
-- Portfolio: https://teodorwaltervido.com
-- X / Twitter: https://twitter.com/teovido
-
----
-
-## Contact
-
-- Email Address: hi@teodorwaltervido.com
+✨ Dark and minimal  
+🔠 Bold typography  
+🫧 Motion only when it adds meaning  
+🧱 Systems that stay understandable at scale
 
 ---
 
-## Note
+## 🔗 Links
 
-Open to conversations around ambitious products, architecture, and frontier systems engineering.
+- 💻 GitHub: https://github.com/baiehclaca
+- 🏢 AETHER Org: https://github.com/aetherdotio
+- 🌐 Portfolio: https://teodorwaltervido.com
+- 🐦 X: https://twitter.com/teovido
+- ✉️ Email: hi@teodorwaltervido.com
+
+---
+
+## 🎯 Note
+
+Always building. Always iterating. Always shipping.
