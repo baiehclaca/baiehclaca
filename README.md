@@ -24,7 +24,7 @@
 
 - 📦 **.AIR** - Compress & Decompress powered engine for installing files fast. 
 
-- 💾 **[SINGULAR QX](https://github.com/singularqx)** - A new chip architecture
+- 🔬 **[SINGULAR QX](https://github.com/singularqx)** - A new chip architecture
 
 ## Past Lives
 
@@ -39,15 +39,13 @@ I've built a lot of things that never shipped and a few that did:
 
 ## Tech I Love
 
-Rust for systems. TypeScript + React + Next.js + Tailwind for interfaces. Framer Motion + Three.js for things that move. Claude for thinking. FoundationDB for remembering.
+Rust for systems. TypeScript + React + Next.js + Tailwind for interfaces. Framer Motion + Three.js for things that move. Claude for thinking and coding.
 
 ## Philosophy
 
-> Ship it. Make it excellent. Don't ask permission.
-
-I build things the way I think they should exist — maximum quality, no shortcuts. One-person company with an AI coworker. That's the whole team.
+> Ship it. Make it excellent.
 
 ---
 
 [![Portfolio](https://img.shields.io/badge/-teodorwaltervido.com-000000?style=flat-square&logo=safari&logoColor=white)](https://teodorwaltervido.com)
-[![Twitter](https://img.shields.io/badge/-@teovido-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/teovido)
+[![Twitter](https://img.shields.io/badge/-@teovido-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/teodorwalterv)
