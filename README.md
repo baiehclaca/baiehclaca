@@ -14,7 +14,7 @@
 
 ## What I'm Building
 
-- 🧠 **[AETHER Research](https://github.com/aether-research)** 
+- 🧠 **[AETHER.IO](https://github.com/aether-research)** 
 - 🔍 **DevSearch** *(2022, retired)* 
 - 🔤 **[Caret Translate](https://github.com/baiehclaca/caret-translate)**
 - ⌨️ **[GULA-GUG](https://github.com/baiehclaca/gula-gug)** - An AI Powered terminal for Windows making every error easily fixable and every command easily accessible.
