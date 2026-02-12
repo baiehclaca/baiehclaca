@@ -14,9 +14,17 @@
 
 ## What I'm Building
 
-- 🧠 **[AETHER Research](https://github.com/aether-research)** — Autonomous Episodic Thought and Hierarchical Evidence Reasoning. A new AI architecture where knowledge lives in cryptograms, recall happens through spreading activation, and the system supervises its own cognition.
+- 🧠 **[AETHER Research](https://github.com/aether-research)** — A new AI architecture where knowledge lives in cryptograms, recall happens through spreading activation, and the system supervises its own cognition.
 
 - 🔍 **DevSearch** *(2022, retired)* — A search engine built for developers. Killed by the ChatGPT wave, but taught me everything about search, ranking, and what AI actually needs.
+
+- 🔤 **[Caret Translate](https://github.com/baiehclaca/carettranslate)** - Translator app running in the background, easily accesible with a double push of TAB. Finds what word is in another language and translates it.
+
+- ⌨️ **[GULA-GUG](https://github.com/baiehclaca/gula-gug)** - An AI Powered terminal for Windows making every error easily fixable and every command easily accessible.
+
+- 📦 **.AIR** - Compress & Decompress powered engine for installing files fast. 
+
+- 💾 **[SINGULAR QX](https://github.com/singularqx)** - A chip architecture
 
 ## Past Lives
 
