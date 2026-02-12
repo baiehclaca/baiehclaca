@@ -14,9 +14,9 @@
 
 ## What I'm Building
 
-- 🧠 **[AETHER Research](https://github.com/aether-research)** — A new AI architecture where knowledge lives in cryptograms, recall happens through spreading activation, and the system supervises its own cognition.
+- 🧠 **[AETHER Research](https://github.com/aether-research)** — A new AI architecture
 
-- 🔍 **DevSearch** *(2022, retired)* — A search engine built for developers. Killed by the ChatGPT wave, but taught me everything about search, ranking, and what AI actually needs.
+- 🔍 **DevSearch** *(2022, retired)* — A search engine built for developers.
 
 - 🔤 **[Caret Translate](https://github.com/baiehclaca/carettranslate)** - Translator app running in the background, easily accesible with a double push of TAB. Finds what word is in another language and translates it.
 
@@ -24,7 +24,7 @@
 
 - 📦 **.AIR** - Compress & Decompress powered engine for installing files fast. 
 
-- 💾 **[SINGULAR QX](https://github.com/singularqx)** - A chip architecture
+- 💾 **[SINGULAR QX](https://github.com/singularqx)** - A new chip architecture
 
 ## Past Lives
 
