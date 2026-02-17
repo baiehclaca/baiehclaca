@@ -14,10 +14,10 @@
 
 ## 🌌 Current Focus
 
-### AETHER
+### CUTTLE LAB
 Long-horizon AI systems with strong memory + reasoning foundations.
 
-- 🏢 **[AETHER Org](https://github.com/aetherdotio)**
+- 🏢 **[CUTTLE LAB](https://github.com/cuttlelabio)**
 
 ---
 
@@ -48,7 +48,7 @@ Long-horizon AI systems with strong memory + reasoning foundations.
 ## 🔗 Links
 
 - 💻 GitHub: https://github.com/baiehclaca
-- 🏢 AETHER Org: https://github.com/aetherdotio
+- 🏢 CUTTLE LAB Org: https://github.com/cuttlelabio
 - 🌐 Portfolio: https://teodorwaltervido.com
 - 🐦 X: https://twitter.com/teodorwalterv
 - ✉️ Email: hi@teodorwaltervido.com
