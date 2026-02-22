@@ -17,7 +17,7 @@
 ### CUTTLE-LAB
 Long-horizon AI systems with strong memory + reasoning foundations.
 
-- 🐙 **[CUTTLE-LAB](https://github.com/cuttlelabio)**
+- 🐙 **[CUTTLE-LAB](https://github.com/cuttlelab)**
 
 ---
 
@@ -48,7 +48,7 @@ Long-horizon AI systems with strong memory + reasoning foundations.
 ## 🔗 Links
 
 - 💻 GitHub: https://github.com/baiehclaca
-- 🐙 CUTTLE-LAB: https://github.com/cuttlelabio
+- 🐙 CUTTLE-LAB: https://github.com/cuttlelab
 - 🌐 Portfolio: https://teodorwaltervido.com
 - 🐦 X: https://twitter.com/teodorwalterv
 - ✉️ Email: hi@teodorwaltervido.com
