@@ -26,7 +26,7 @@ Long-horizon AI systems with strong memory + reasoning foundations.
 - 🌍 **[Caret-Translate](https://github.com/baiehclaca/caret-translate)** → Double tap "TAB", it will analyze your sentence and translate it. All local.
 - 🧪 **[GULA-GUG](https://github.com/baiehclaca/GULA-GUG)** - Self-resolving terminal.
 - ⚙️ **[SINGULAR](https://github.com/singularqx)** - New way of computing.
-- 📈 **[OPENCLAW WAR ROOM](https://github.com/baiehclaca/openclaw-warroom)** - Terminal-first OpenClaw operations cockpit with task rooms, milestones, and live coding feed.
+- 📈 **[WAR-ROOM](https://github.com/baiehclaca/openclaw-warroom)** - Terminal-first OpenClaw operations cockpit with task rooms, milestones, and live coding feed.
 - 🌐 **[VEIL](https://github.com/cacodeAI/veil)** - veil is a headless browser CLI built for AI agents.
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
