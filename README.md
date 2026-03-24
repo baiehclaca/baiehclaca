@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/Location-Slovakia-0f172a?style=for-the-badge" />
 </p>
 
-🚀 Building ambitious systems.  
-🧠 Obsessed with architecture, frameworks and protocols.
-🎵 Music Lover.
+Building ambitious systems.  
+Obsessed with architecture, frameworks and protocols.
+Music Lover.
 
 ---
 
-## 🧩 Selected Projects
+## Selected Projects
 
 - 🌍 **[Caret-Translate](https://github.com/baiehclaca/caret-translate)** → Double tap "TAB", it will analyze your sentence and translate it. All local.
 - 🧪 **[Gula-Gug](https://github.com/baiehclaca/GULA-GUG)** - Self-resolving terminal.
@@ -31,19 +31,9 @@
 
 ---
 
-## 🧠 Design + Engineering Taste
-
-✨ Dark and minimal  
-🔠 Bold typography  
-🫧 Motion only when it adds meaning  
-🧱 Systems that stay understandable at scale
-
----
-
 ## 🔗 Links
 
 - 💻 GitHub: https://github.com/baiehclaca
-- 🐙 CUTTLE-LAB: https://github.com/cuttlelab
 - 🌐 Portfolio: https://teodorwaltervido.com
 - 🐦 X: https://twitter.com/teodorwalterv
 - ✉️ Email: hi@teodorwaltervido.com
