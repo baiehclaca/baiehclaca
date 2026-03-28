@@ -20,7 +20,6 @@ Music Lover.
 - **[OpenClaw War-Room](https://github.com/baiehclaca/openclaw-warroom)** - Terminal-first OpenClaw operations cockpit with task rooms, milestones, and live coding feed.
 - **[Veil Browser](https://github.com/cacodeAI/veil)** - veil is a headless browser CLI built for AI agents.
 - **[open402](https://github.com/baiehclaca/open402)** - HTTP finally gets paid. An open protocol and TypeScript SDK for HTTP 402 Payment Required.
-- **[apibridger](https://github.com/baiehclaca/bridgerapi)** - Turn any AI CLI (Claude Code, Gemini, Codex, GitHub Copilot) into a local OpenAI-compatible API — no API keys needed
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
