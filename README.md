@@ -21,7 +21,7 @@ Music Lover.
 - **[Veil Browser](https://github.com/cacodeAI/veil)** - veil is a headless browser CLI built for AI agents.
 - **[open402](https://github.com/baiehclaca/open402)** - HTTP finally gets paid. An open protocol and TypeScript SDK for HTTP 402 Payment Required.
 - **[Stratum](https://github.com/baiehclaca/stratum)** - A revolutionary proof-of-work algorithm designed to restore the viability of CPU mining and make commodity hardware competitively viable against application-specific integrated circuits (ASICs).
-- **[Shadow-Twin-Transformer](https://github.com/baiehclaca/open402)** - A novel transformer architecture extension that enables enhanced reasoning, self-correction, and confidence-aware generation through dual coupled processing streams.
+- **[Shadow-Twin-Transformer](https://github.com/baiehclaca/shadow-twin-transformer)** - A novel transformer architecture extension that enables enhanced reasoning, self-correction, and confidence-aware generation through dual coupled processing streams.
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
