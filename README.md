@@ -16,27 +16,27 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
 ║   $ whoami                                                           ║
-║   ───────────────────────────────────────────────────────────────   ║
+║   ───────────────────────────────────────────────────────────────    ║
 ║                                                                      ║
 ║   name     →  teodor walter vido                                     ║
-║   handle   →  baiehclaca / teodorwalterv                            ║
+║   handle   →  baiehclaca / teodorwalterv                             ║
 ║   origin   →  slovakia, earth                                        ║
-║   status   →  online · building · shipping                          ║
+║   status   →  online · building · shipping                           ║
 ║                                                                      ║
 ║   $ cat /proc/compute                                                ║
-║   ───────────────────────────────────────────────────────────────   ║
+║   ───────────────────────────────────────────────────────────────    ║
 ║                                                                      ║
-║   ██████████████████████████████████████  1,000,000,000+ tkn/mo    ║
+║   ██████████████████████████████████████  1,000,000,000+ tkn/mo      ║
 ║                                                                      ║
 ║   tokens burned this month. above.                                   ║
 ║                                                                      ║
 ║   $ cat /etc/obsessions                                              ║
-║   ───────────────────────────────────────────────────────────────   ║
+║   ───────────────────────────────────────────────────────────────    ║
 ║                                                                      ║
-║   architecture · frameworks · protocols · systems design            ║
-║   how things are built at the core — not just on top               ║
+║   architecture · frameworks · protocols · systems design             ║
+║   how things are built at the core — not just on top                 ║
 ║                                                                      ║
-║   ♫  audio: always on                                               ║
+║   ♫  audio: always on                                                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
