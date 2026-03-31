@@ -10,6 +10,8 @@ Building ambitious systems.
 Obsessed with architecture, frameworks and protocols.
 Music Lover.
 
+I calculated my tokens used in a month and it was above 1 billion tokens.
+
 ---
 
 ## Selected Projects
