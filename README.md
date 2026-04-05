@@ -59,6 +59,7 @@
 | ◉ | **[Stratum](https://github.com/baiehclaca/stratum)** | proof-of-work algorithm · CPU mining revival · makes commodity hardware compete against ASICs |
 | ◉ | **[Singular Company](https://github.com/singularqx)** | new way of computing |
 | ◉ | **[open402](https://github.com/baiehclaca/open402)** | HTTP finally gets paid · open protocol + TypeScript SDK for HTTP 402 |
+| ◉ | **[Service](https://github.com/baiehclaca/service)** | the only MCP server your AI agent needs · unified MCP hub & real-time notification gateway |
 | ● | **[Veil Browser](https://github.com/cacodeAI/veil)** | headless browser CLI built for AI agents |
 | ● | **[OpenClaw War-Room](https://github.com/baiehclaca/openclaw-warroom)** | terminal-first ops cockpit · task rooms · milestones · live coding feed |
 | ● | **[Gula-Gug](https://github.com/baiehclaca/GULA-GUG)** | self-resolving terminal |
