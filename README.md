@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:111111&height=220&section=header&text=TEODOR%20WALTER%20VIDO&fontColor=FFFFFF&fontSize=52&animation=fadeIn&fontAlignY=48&desc=builder+%7C+architect+%7C+protocol+designer&descColor=444444&descSize=17&descAlignY=68"/>
+<img src="./header.svg" alt="Teodor Walter Vido — builder, architect, protocol designer" width="100%" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -144,13 +146,5 @@
 ```
   > always building. always iterating. always shipping.
 ```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer"/>
 
 </div>
