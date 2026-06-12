@@ -66,7 +66,8 @@
 | ● | **[OpenClaw War-Room](https://github.com/baiehclaca/openclaw-warroom)** | terminal-first ops cockpit · task rooms · milestones · live coding feed |
 | ● | **[Gula-Gug](https://github.com/baiehclaca/GULA-GUG)** | self-resolving terminal |
 | ● | **[Caret-Translate](https://github.com/baiehclaca/caret-translate)** | double-tap TAB → translate any sentence · fully local · zero network |
-| ● | **[Knono](https://knono.vercel.app/)** | Instant answer to anything through knowledge bars · No AI answers · Search Engine |
+| ● | **[Knono](https://knono.info/)** | Instant answer to anything through knowledge bars · No AI answers · Search Engine |
+| ● | **[Frontpage.social](https://frontpage.social/)** | A place for communities to be · No Text Moderation · Social Network |
 
 </div>
 
