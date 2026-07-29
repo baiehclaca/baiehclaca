@@ -25,18 +25,11 @@
 ║   origin   →  slovakia, earth                                        ║
 ║   status   →  online · building · shipping                           ║
 ║                                                                      ║
-║   $ cat /proc/compute                                                ║
-║   ───────────────────────────────────────────────────────────────    ║
-║                                                                      ║
-║   ██████████████████████████████████████  1,000,000,000+ tkn/mo      ║
-║                                                                      ║
-║   tokens burned this month. above.                                   ║
-║                                                                      ║
 ║   $ cat /etc/obsessions                                              ║
 ║   ───────────────────────────────────────────────────────────────    ║
 ║                                                                      ║
 ║   architecture · frameworks · protocols · systems design             ║
-║   how things are built at the core — not just on top                 ║
+║   how things are built at the core                                   ║
 ║                                                                      ║
 ║   ♫  audio: always on                                                ║
 ║                                                                      ║
@@ -68,7 +61,7 @@
 | ● | **[Caret-Translate](https://github.com/baiehclaca/caret-translate)** | double-tap TAB → translate any sentence · fully local · zero network |
 | ● | **[Knono](https://knono.info/)** | Instant answer to anything through knowledge bars · No AI answers · Search Engine |
 | ● | **[Frontpage.social](https://frontpage.social/)** | A place for communities to be · No Text Moderation · Social Network |
-
+| ● | **[86chanl](https://86chan.online/)** | A place for communities to be · Imageboard Forum |
 </div>
 
 <br/>
