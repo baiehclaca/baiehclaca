@@ -8,6 +8,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=%24+cat+%2Fetc%2Fidentity+%7C+loading...;%3E+1%2C000%2C000%2C000%2B+tokens+%2F+month.;%3E+building+ambitious+systems.;%3E+always+shipping." alt="Terminal Boot" />
+<p align="center">
+  <a href="https://teodorwaltervido.com">Work</a> &nbsp; / &nbsp;
+  <a href="https://github.com/baiehclaca?tab=repositories">Code</a> &nbsp; / &nbsp;
+  <a href="mailto:hi@teodorwaltervido.com">Contact</a>
+</p>
 
 </div>
