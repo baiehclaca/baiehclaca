@@ -1,17 +1,1 @@
-<div align="center">
-
-<img src="./header.svg" alt="Teodor Walter Vido — builder, architect, protocol designer" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<p align="center">
-  <a href="https://teodorwaltervido.com">Work</a> &nbsp; / &nbsp;
-  <a href="https://github.com/baiehclaca?tab=repositories">Code</a> &nbsp; / &nbsp;
-  <a href="mailto:hi@teodorwaltervido.com">Contact</a>
-</p>
-
-</div>
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Teodor Walter Vido — README preview</title><style>*{box-sizing:border-box}body{margin:0;background:#0d1117;color:#e6edf3;font:16px/1.7 Arial,sans-serif}main{max-width:1000px;margin:28px auto;padding:32px;border:1px solid #30363d;border-radius:6px}img{display:block;width:100%;height:auto}p{text-align:center;margin:24px 0}a{color:#e6edf3;text-decoration:none}a:hover{text-decoration:underline}@media(max-width:640px){main{margin:0;padding:16px;border:0}}</style></head><body><main><img src="cover.svg?v=3" alt="Teodor Walter Vido — software, systems, sound"><p>I build software and work with sound.</p><p><a href="https://teodorwaltervido.com">Work</a> &nbsp; / &nbsp; <a href="https://github.com/baiehclaca?tab=repositories">Code</a> &nbsp; / &nbsp; <a href="mailto:hi@teodorwaltervido.com">Contact</a></p></main></body></html>
