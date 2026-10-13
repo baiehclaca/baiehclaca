@@ -1,4 +1,4 @@
-![Teodor Walter Vido — an open ended practice](./cover.svg)
+![TWV — white contour artwork on black](./cover.jpg)
 
 <p align="center">
   I build software and work with sound.
