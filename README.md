@@ -1,4 +1,4 @@
-![TWV — white contour artwork on black](./cover.jpg)
+![Teodor Walter Vido — white contour artwork on black](./cover.jpg)
 
 <p align="center">
   I build software and work with sound.
