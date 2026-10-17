@@ -38,7 +38,7 @@
 </picture></a>
 </p>
 
-| | |
+| Project | Notes |
 | --- | --- |
 | **AngularAI** | Memory on disk. Each call sends only what fits a fixed token budget. Refuses secrets. A value lock holds back bad replies. An agent sandboxed to one directory. [Repo](https://github.com/angularai-hq/AngularAI) · [Site](https://angularai-hq.github.io/AngularAI/) · [Paper](https://github.com/angularai-hq/AngularAI/blob/main/docs/angularai.pdf) |
 | **Xwift** | A universal cross-platform toolchain on Swift and LLVM. macOS, Windows, Linux, Android, iOS and Web. The proof of concept is private for now. |
